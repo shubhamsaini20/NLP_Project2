@@ -4,7 +4,8 @@ Here we use Streamlet, we made a general code where one can enter the URL and th
 
 Screenshots, :- 
 
-![image](https://github.com/shubhamsaini20/NLP_Project2/assets/94964464/496d511d-484f-4be7-960b-d8873b196693)
+![image](https://github.com/shubhamsaini20/NLP_Project2/assets/94964464/dca7ca74-da97-4f1d-a13f-2f3cb85c7db1)
+
 
 
 ![image](https://github.com/shubhamsaini20/NLP_Project2/assets/94964464/c8f32e79-80de-43d7-9f84-abdc99864856)
