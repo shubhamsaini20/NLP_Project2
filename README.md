@@ -7,3 +7,7 @@
 
 
 #### General Observations:- If you try to send more than 200 requests in 2 mins then "Trust-Pilot" might block your IP Address. 
+
+
+This project is made towards the final submission at ESILV, for the subject - Machine Learning for NLP, 
+The project is a group effort, made possible by team-work of Shubham SAINI & Manisha RAWALA.
