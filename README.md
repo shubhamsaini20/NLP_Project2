@@ -1,4 +1,4 @@
-## Explaininf file attached to the repo
+## Explaining file attached to the repo
 
 1.** Web_Scrapper (App)** - In the folder we have added the python code and app code we created using streamlit, in these there are two main files one is the class we created with the name of
 'TrustPilotScraper' then we created the code in it to scrapped the desired organisation from "trust-pilot" and number of pages you want to scrap. The other file App.py is the 
