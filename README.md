@@ -13,4 +13,4 @@ This project is made towards the final submission at ESILV, for the subject - Ma
 The project is a group effort, made possible by the teamwork of Shubham SAINI & Manisha RAWALA.
 
 ## FOR THE DETAIL UNDERSTANDING OF EACH ASPECT OF THE PROJECT WE INVITE YOU TO FOLLOW THE DETAILED REPORT ON THE PROJECT:
- link - [PROJECT EXPLORATION & NLP MODELLING](URL)
+ link - https://docs.google.com/document/d/1T5NR2hwJ8TvlK9i_WUqfrviNwHRO_HMy7Q1uliYXRg0/edit?usp=sharing
