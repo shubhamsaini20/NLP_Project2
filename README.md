@@ -10,4 +10,7 @@
 
 
 This project is made towards the final submission at ESILV, for the subject - Machine Learning for NLP, 
-The project is a group effort, made possible by team-work of Shubham SAINI & Manisha RAWALA.
+The project is a group effort, made possible by the teamwork of Shubham SAINI & Manisha RAWALA.
+
+## FOR THE DETAIL UNDERSTANDING OF EACH ASPECT OF THE PROJECT WE INVITE YOU TO FOLLOW THE DETAILED REPORT ON THE PROJECT:
+ link - [PROJECT EXPLORATION & NLP MODELLING](URL)
